@@ -10,7 +10,7 @@ Open `index.html` in a browser, or use the **Live Server** extension in Visual S
 
 Place a portrait at `profile.png.png` beside `index.html`. The frame preserves the image proportions and crops it to fit; if the file is absent, the page displays the JPC initials artwork instead.
 
-The AI certificate preview currently loads from `../AI CERT.png`. Before publishing only the `Joshua-Portfolio` folder, place `AI CERT.png` beside `index.html` and update the certificate image path in `index.html` to `AI%20CERT.png`.
+The AI certificate preview loads from `AI%20CERT.png`, beside `index.html`. Keep the image in the published site folder so the preview and full-size link work when deployed.
 
 ## Publish with GitHub Pages
 
